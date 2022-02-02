@@ -67,28 +67,51 @@
   position: absolute;
   height: 390px;
   width: 224px;
-  right: 282px;
+  right: 375px;
 }
 
 #img1 {
-  top: -112px;
+  top: -124px;
   display: block;
 }
 
 #img2 {
-  top: -158px;
+  top: -168px;
 }
 
 #img3 {
-  top: -205px;
+  top: -212px;
 }
 
 #img4 {
-  top: -252px;
+  top: -262px;
 }
 
 #img5 {
-  top: -298px;
+  display: block;
+  top: -116px;
+  left: 345px;
+}
+
+#img6 {
+  top: -164px;
+  left: 345px;
+}
+
+#img7 {
+  top: -206px;
+  left: 345px;
+}
+
+#img8 {
+  display: block;
+  top: -118px;
+  right: 385px;
+}
+
+#img9 {
+  top: -165px;
+  right: 385px;
 }
 
 .list-group-item:hover img {
@@ -104,8 +127,20 @@
   cursor: pointer;
 }
 
-.phone {
+.phone1 {
   position: absolute;
   left: 20%;
-  top: 630px;
+  top: 640px;
+}
+
+.phone2 {
+  position: absolute;
+  left: 20%;
+  top: 1320px;
+}
+
+.phone3 {
+  position: absolute;
+  left: 20%;
+  top: 1990px;
 }
