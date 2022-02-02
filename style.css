@@ -71,20 +71,28 @@
 }
 
 #img1 {
-  top: -124px;
+  top: -82px;
   display: block;
 }
 
 #img2 {
-  top: -168px;
+  top: -126px;
 }
 
 #img3 {
-  top: -212px;
+  top: -172px;
 }
 
 #img4 {
+  top: -220px;
+}
+
+#img10 {
   top: -262px;
+}
+
+#img11 {
+  top: -312px;
 }
 
 #img5 {
